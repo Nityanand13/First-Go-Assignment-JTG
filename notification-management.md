@@ -63,7 +63,7 @@ If you’d like to see support for additional events, [let us know](https://matt
    * Epic Link
    * Labels
    * Priority
-5. Click on the **Add Subscription** button to add the subscription to that channel with the specific constraints that you have selected above.
+5. Click on the **Add Subscription** button to add the subscription to that particular channel with the specific constraints that you have selected above.
 
 ## Setting up the webhook in Jira
 
